@@ -9,12 +9,12 @@ The school board has notified Maria and her supervisor that the students_complet
 ### Results
  **school district summary Data Frame**
  
-  - The school district summary Data Frame before ignoring the reading and math grades for Thomas High School ninth graders
+  - The school district summary Data Frame before ignoring the reading and math grades for Thomas High School ninth graders.
 
   
       ![](images/Old%20District%20Summary%20DF.png)
       
-  - The school district summary Data Frame after ignoring the reading and math grades for Thomas High School ninth graders
+  - The school district summary Data Frame after ignoring the reading and math grades for Thomas High School ninth graders.
   
       ![](images/New%20District%20Summary%20DF.png)
       
