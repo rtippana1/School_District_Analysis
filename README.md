@@ -1,9 +1,9 @@
 # Stchool District Analysis
 
 ## Overview of Project
-Chief data scientist for city school district is responsible for analyzing information from a variety of sources and then variety of formats. In this role she is tasked  to preparing all standardized test data for analysis recording and presentation to provide insights about performance trends and patterns. These insights are used to inform discussion on strategic decision at school and district level. 
+Chief data scientist for city school district is responsible for analyzing information from a variety of sources and then variety of formats.In this role she is tasked  to preparing all standardized test data for analysis recording and presentation to provide insights about performance trends and patterns.These insights are used to inform discussion on strategic decision at school and district level. 
 In this project i am helping maria to analyze data on student funding and student standardized test scores. Access to every student’s math and reading scores and various other information on the schools they attend.
-Aggregate the data and show cases trends in school performance. This analyze will assist school board and superintendents in making decisions reg the school budgets and priorities.
+Aggregate the data and show cases trends in school performance.This analyze will assist school board and superintendents in making decisions reg the school budgets and priorities.
 The school board has notified Maria and her supervisor that the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered.Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards.In order to uphold the state testing standards we have replaced the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact and perfrom the school district analysis.
 
 ### Results
