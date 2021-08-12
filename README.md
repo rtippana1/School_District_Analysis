@@ -1,6 +1,7 @@
 # Stchool District Analysis
 
 ## Overview of Project
+
 Chief data scientist for city school district is responsible for analyzing information from a variety of sources and then variety of formats.In this role she is tasked  to preparing all standardized test data for analysis recording and presentation to provide insights about performance trends and patterns.These insights are used to inform discussion on strategic decision at school and district level. 
 In this project i am helping maria to analyze data on student funding and student standardized test scores. Access to every student’s math and reading scores and various other information on the schools they attend.
 Aggregate the data and show cases trends in school performance.This analyze will assist school board and superintendents in making decisions reg the school budgets and priorities.
